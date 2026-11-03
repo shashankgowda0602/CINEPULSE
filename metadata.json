@@ -1,0 +1,6 @@
+{
+  "name": "CinePulse - Modern Streaming Cinema",
+  "description": "Netflix-inspired modern streaming platform featuring cinematic hero showcases, horizontal category rows, interactive preview modals, search, watchlists, and authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
