@@ -2,8 +2,8 @@
 
 A modern streaming-inspired movie platform built with React, TypeScript, Vite, and Tailwind CSS. CinePulse recreates the feel of a premium OTT experience with a cinematic hero banner, category browsing, top-10 rankings, watchlist management, search, and rich movie detail overlays.
 
-```Deployed link: https://cinepulse-d6ik.vercel.app/
-```
+Deployed link: https://cinepulse-d6ik.vercel.app/
+
 
 ## Features
 
